@@ -106,6 +106,22 @@
 
 <br/>
 
+## Project 
+### ERP (Developing) </br>
+<kbd>[![ERP](/Capture/ERP.gif "ERP")](https://github.com/kg4543/MiniProject_ERP)</kbd> </br>
+### MES </br>
+<kbd>[![MES](/Capture/MES.gif "MES")](https://github.com/kg4543/MiniProject_SimpleMES)</kbd> </br>
+### IoT Control </br>
+<kbd>[![IoT](/Capture/IoT_Control.gif "IoT")](https://github.com/kg4543/StudyRaspberry/tree/main/IoT%20contloer)</kbd> </br>
+### MovieFinder (OpenAPI) </br>
+<kbd>[![Movie](/Capture/Movie.gif "Movie")](https://github.com/kg4543/StudyDesktopApp/tree/main/WPFApp/WpfMiniProject)</kbd> </br>
+### Action Game </br>
+<kbd>[![Action](/Capture/Action.gif "Action")](https://github.com/kg4543/StudyUnity/tree/main/Action_Game)</kbd> </br>
+참고 자료 : https://www.youtube.com/channel/UCw_N-Q_eYJo-IJFbNkhiYDA </br>
+### Detection Camera
+<kbd>[![CAM](/Capture/Cam_Move.gif "CAM")](https://github.com/kg4543/StudyRaspberry/blob/main/OpenCV/OpenCV_mov03.py)</kbd> </br>
+
+
 
 | 기술분류 | 보유기술 | 기술분류 | 보유기술 |
 |:---:|---|:---:|---|

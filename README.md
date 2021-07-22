@@ -18,7 +18,7 @@
 
 ## Using Tools
 <p align='left'>
-  <a href="https://github.com/WhiteHair-H">
+  <a href="https://github.com/guemin96">
     <img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png">
     <img height="40" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
     <img height="40" src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/10/logo.png">
@@ -60,9 +60,8 @@
 
 
 ## Using Languages
-
 <p align='left'>
-  <a href="https://github.com/WhiteHair-H">
+  <a href="https://github.com/guemin96">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   </a>
   <a href="#demo">

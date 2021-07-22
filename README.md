@@ -117,7 +117,7 @@
 <kbd>[![Action](/Capture/Unity.gif "Action")]</kbd> </br>
 
 ### Detection Camera
-<kbd>[![CAM](/Capture/Cam_Move.gif "CAM")](https://github.com/kg4543/StudyRaspberry/blob/main/OpenCV/OpenCV_mov03.py)</kbd> </br>
+<kbd>[![CAM](/Capture/Cam_Move.gif "CAM")]</kbd> </br>
 
 
 
